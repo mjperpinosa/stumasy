@@ -1,0 +1,25 @@
+#pr_container_div {
+	width: 620px;
+	margin-top: 20px;
+}
+
+input[name='pr_profile_image'] {
+	visibility: hidden;
+}
+
+#pr_profile_information_continer_div table {
+	width: 500px !important;
+	text-align: center !important;
+	font-size: 12px;
+}
+
+#pr_profile_information_continer_div table caption {
+	color: #2f96b4;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.pr_info {
+	font-weight: bold;
+	color: white !important;
+}

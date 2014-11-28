@@ -1,0 +1,132 @@
+
+
+#lp_header_div {
+	background: -moz-linear-gradient(bottom, #333, #111, black);
+    background: -webkit-linear-gradient(bottom, #333, #111, black);
+    background: -o-linear-gradient(bottom, #333, #111, black);
+    background: linear-gradient(bottom, #333, #111, black);
+	margin-bottom: -10px;
+	text-align: center;
+	padding: 30px 15px 10px 15px;
+	line-height: 1px;
+}
+
+#lp_main_container_div  {
+	width: 800px;
+	margin: 0 auto;
+	background: #333;
+}
+
+#lp_description_p {
+	text-align: center;
+	font-style: italic;
+	font-size: 12px;
+	color: white;
+}
+
+#lp_header_div h2 {
+	font-weight: bolder;
+	text-align: center;
+	padding: 20px;
+	-ms-text-shadow: 0 0 0.9em white, 0 0 1.2em white, 0 0 0.2em gray, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4;
+	-moz-text-shadow: 0 0 0.9em white, 0 0 1.2em white, 0 0 0.2em gray, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4;
+	-webkit-text-shadow: 0 0 0.9em white, 0 0 1.2em white, 0 0 0.2em gray, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4;
+	text-shadow: 0 0 0.9em white, 0 0 1.2em white, 0 0 0.2em #2f96b4, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4, 0 0 1.2em #2f96b4;
+
+}
+
+#lp_body_div {
+	width: 570px;
+	margin: 0 auto;
+	background: #151515;
+	padding-top: 10px !important;
+	padding: 20px;
+}
+
+#lp_login_div {
+	margin-top: 40px;
+	width: 220px;
+	font-size: 12px;
+	padding: 10px;
+	text-align: center;
+	line-height: 45px;
+}
+
+#lp_login_div p {
+	margin: 10px 10px;
+	font-size: 11px;
+}
+
+#lp_login_div p a:hover {
+	cursor: pointer;
+}
+
+#lp_login_div input {
+	width: 200px;
+}
+
+#lp_slide_images_div {
+	margin-top: 35px;
+}
+
+#lp_overlay_div {
+	background: #000;
+	opacity: 0.9;
+	width: inherit;
+	height: 100%;
+	z-index: 100;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	display: none;
+}
+
+#lp_dialog_div {
+	color: white;
+	font-weight: bold;
+	border: 5px solid gray;
+	position: fixed;
+	margin: auto 20%;
+	top: 140px;
+	z-index: 200;
+	padding: 20px;
+	background: #151515;
+	display: none;
+}
+
+#lp_dialog_div a {
+	cursor: pointer;
+	font-size: 13px;
+}
+
+#lp_slide_images_div img {
+	width: 320px;
+	height: 250px;
+	border-radius: 20px;
+}
+
+#lp_laoding_div {
+	width: 40%;
+	text-align: center;
+	background: #151515;
+	color: white;
+	font-weight: bold;
+	border: 5px solid gray;
+	position: fixed;
+	margin: auto 20%;
+	top: 140px;
+	z-index: 200;
+	padding: 20px;
+	display: none;
+}
+
+#lp_laoding_div img {
+	width: 50px;
+	height: 50px;
+}
+
+#account_invalid_p {
+	display: none;
+	margin-bottom: 15px;
+	text-align: center;
+}

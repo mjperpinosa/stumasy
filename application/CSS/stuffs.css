@@ -1,0 +1,86 @@
+#st_container_div ul {
+	display: none;
+}
+#st_container_div {
+	padding: 20px;
+	margin-left: 22% !important;
+}
+
+#st_alarms_container_div table tr {
+	font-size: 12px !important;
+}
+
+#st_set_alarm_container_div {
+	text-align: center;
+	background: #333;
+	padding-bottom: 8px;
+	width: 500px !important;
+}
+
+#st_set_alarm_container_div table {
+	color: silver;
+}
+
+#st_set_alarm_container_div input, #st_set_alarm_container_div select {
+	background: silver;
+}
+
+#st_alarm_app_container_div {
+	text-align: center;
+}
+
+#st_set_alarm_form {
+	text-align: center;
+}
+
+#st_set_alarm_form table {
+	border: collapse;
+}
+
+#st_set_alarm_form table tr td, #st_set_alarm_form table thead tr th {
+	text-align: center;
+	font-size: 12px;
+}
+
+#st_container_div #st_alarm_active_container_div  {
+	width: 499px !important;
+	height: 50px;
+	background: #666;
+}
+
+#st_container_div #st_alarm_active_container_div  iframe{
+	width: 250px !important;
+	border: none !important;
+	height: inherit;
+}
+
+#st_container_div #st_alarm_active_container_div marquee {
+	width: 240px;
+	height: inherit;
+}
+
+#st_delete_note_div {
+	width: 500px !important;
+	height: 30px;
+	padding: auto;
+	position: fixed;
+	font-size: 20px;
+	color: red !important;
+	text-align: center;
+	background: #333;
+	display: none;
+}
+
+#st_display_alarm_table {
+	margin-top: 30px;
+	width: 500px;
+	color: #ccc;
+}
+
+#st_display_alarm_table thead {
+	color: #111;
+	-webkit-text-shadow: 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white;
+	-moz-text-shadow: 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white;
+	-ms-text-shadow: 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white;
+	text-shadow: 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white;
+}
