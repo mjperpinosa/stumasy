@@ -2,7 +2,7 @@
 	session_start();
 	include "Database_connection.php";
 	include "Stumasy_extra_functions.php";
-	
+
 	class Updates_controller extends Database_connection {
 		
 		function current_time() {

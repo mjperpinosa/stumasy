@@ -23,15 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="updates.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/pages/updates.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="21" selection-start="481" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="527">
+=======
+      <file leaf-file-name="Database_connection.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="21" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="408">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Profiles_controller.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/PHP/classes/Profiles_controller.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,11 +67,24 @@
                 <marker date="1393951208000" expanded="true" signature="1919:2074" placeholder="SELECT cs.*,..users_class_schedules..." />
                 <marker date="1393951208000" expanded="true" signature="2896:3005" placeholder="UPDATE class..." />
                 <marker date="1393951208000" expanded="true" signature="3282:3325" placeholder="DELETE FROM ..." />
+=======
+      <file leaf-file-name="User_controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/User_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="48" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1309">
+              <folding>
+                <marker date="1395775976000" expanded="true" signature="408:472" placeholder="INSERT INTO ..." />
+                <marker date="1395775976000" expanded="true" signature="764:807" placeholder="INSERT INTO ..." />
+                <marker date="1395775976000" expanded="true" signature="1100:1202" placeholder="SELECT u.use..users..." />
+                <marker date="1395775976000" expanded="true" signature="1354:1469" placeholder="SELECT u.* F..users..." />
+                <marker date="1395775976000" expanded="true" signature="1920:2035" placeholder="SELECT u.* F..users..." />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Stuffs_controller.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stuffs_controller.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,28 +99,70 @@
                 <marker date="1396981978000" expanded="true" signature="4683:4736" placeholder="UPDATE users..." />
                 <marker date="1396981978000" expanded="true" signature="4964:5001" placeholder="DELETE FROM ..." />
               </folding>
+=======
+      <file leaf-file-name="login_user.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/objects/users/login_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="4" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="561">
+              <folding />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Database_connection.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="9" selection-start="39" selection-end="479" vertical-scroll-proportion="0.45212767" vertical-offset="0" max-vertical-offset="564">
+=======
+      <file leaf-file-name="add_user.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/PHP/objects/users/add_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="2" selection-start="522" selection-end="522" vertical-scroll-proportion="0.61731845" vertical-offset="0" max-vertical-offset="358">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="updates.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/JS/updates.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="3689">
               <folding />
+=======
+      <file leaf-file-name="Updates_controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="28" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5253">
+              <folding>
+                <marker date="1409710498044" expanded="true" signature="1269:1309" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="1490:1526" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="2220:2257" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="2435:2472" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="2604:2689" placeholder="SELECT CONCA..users..." />
+                <marker date="1409710498044" expanded="true" signature="4397:4591" placeholder="SELECT p.*, ..users..." />
+                <marker date="1409710498044" expanded="true" signature="4809:4872" placeholder="SELECT * FRO..posts_liked..." />
+                <marker date="1409710498044" expanded="true" signature="5004:5156" placeholder="SELECT f.fil..posts..." />
+                <marker date="1409710498044" expanded="true" signature="7332:7395" placeholder="SELECT * FRO..posts_liked..." />
+                <marker date="1409710498044" expanded="true" signature="7555:7616" placeholder="DELETE FROM ..." />
+                <marker date="1409710498044" expanded="true" signature="7753:7790" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="8054:8252" placeholder="SELECT CONCA..users..." />
+                <marker date="1409710498044" expanded="true" signature="8982:9028" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="9216:9259" placeholder="INSERT INTO ..." />
+                <marker date="1409710498044" expanded="true" signature="9402:9487" placeholder="SELECT CONCA..users..." />
+                <marker date="1409710498044" expanded="true" signature="10767:11044" placeholder="SELECT c.*, ..users..." />
+                <marker date="1409710498044" expanded="true" signature="13272:13373" placeholder="UPDATE comme..." />
+                <marker date="1409710498044" expanded="true" signature="13734:13775" placeholder="DELETE FROM ..." />
+              </folding>
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="User_controller.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/PHP/classes/User_controller.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,32 +174,60 @@
                 <marker date="1395775976000" expanded="true" signature="1354:1469" placeholder="SELECT u.* F..users..." />
                 <marker date="1395775976000" expanded="true" signature="1920:2035" placeholder="SELECT u.* F..users..." />
               </folding>
+=======
+      <file leaf-file-name="Stumasy_extra_functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="33" selection-start="13" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1513">
+              <folding />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="settings.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/pages/settings.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+=======
+      <file leaf-file-name="cascading_style_sheets.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/CSS/cascading_style_sheets.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="schedules.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/pages/schedules.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="64" column="66" selection-start="1730" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="913" max-vertical-offset="1955">
+=======
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="75" selection-start="1266" selection-end="1268" vertical-scroll-proportion="0.0" vertical-offset="604" max-vertical-offset="1921">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/pages/profile.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="867">
+=======
+      <file leaf-file-name="login.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/JS/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
               <folding />
             </state>
           </provider>
@@ -152,14 +243,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/application/pages/login.php" />
+=======
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
         <option value="$PROJECT_DIR$/application/JS/schedules.js" />
         <option value="$PROJECT_DIR$/application/CSS/notes.css" />
         <option value="$PROJECT_DIR$/application/pages/notes.php" />
         <option value="$PROJECT_DIR$/application/PHP/classes/Notes_controller.php" />
         <option value="$PROJECT_DIR$/application/JS/notes.js" />
         <option value="$PROJECT_DIR$/application/PHP/classes/Database_connection.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php" />
+=======
+        <option value="$PROJECT_DIR$/application/PHP/classes/Updates_controller.php" />
+        <option value="$PROJECT_DIR$/application/pages/login.php" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </list>
     </option>
   </component>
@@ -167,8 +266,13 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
+<<<<<<< HEAD
     <option name="width" value="1382" />
     <option name="height" value="744" />
+=======
+    <option name="width" value="1040" />
+    <option name="height" value="576" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -205,6 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="stumasy" />
@@ -317,6 +422,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+=======
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
         </subPane>
       </pane>
     </panes>
@@ -324,7 +431,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../quiCue" />
+=======
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Variety File Storage/Built Programs/PHP" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistory" value="setting" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -352,6 +469,26 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+<<<<<<< HEAD
+=======
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="183bc67d-17d1-4f57-a54c-069c3e14aa42" name="Default" comment="" />
@@ -361,7 +498,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+=======
+    <frame x="-8" y="-8" width="1040" height="576" extended-state="6" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -369,7 +510,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23718888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20800781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -377,11 +522,20 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -398,16 +552,76 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+<<<<<<< HEAD
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="43" selection-start="2925" selection-end="2934" vertical-scroll-proportion="0.0" vertical-offset="1167" max-vertical-offset="5253" />
+=======
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/PHP/objects/users/add_user.php</url>
+          <line>8</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5253">
+          <folding>
+            <marker date="1409710498044" expanded="true" signature="1269:1309" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="1490:1526" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2220:2257" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2435:2472" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2604:2689" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="4397:4591" placeholder="SELECT p.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="4809:4872" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="5004:5156" placeholder="SELECT f.fil..posts..." />
+            <marker date="1409710498044" expanded="true" signature="7332:7395" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="7555:7616" placeholder="DELETE FROM ..." />
+            <marker date="1409710498044" expanded="true" signature="7753:7790" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="8054:8252" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="8982:9028" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9216:9259" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9402:9487" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="10767:11044" placeholder="SELECT c.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="13272:13373" placeholder="UPDATE comme..." />
+            <marker date="1409710498044" expanded="true" signature="13734:13775" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="33" selection-start="13" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/CSS/cascading_style_sheets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/pages/login.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921" />
       </provider>
     </entry>
@@ -419,15 +633,100 @@
     <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="8427" max-vertical-offset="10761" />
+=======
+        <state line="42" column="75" selection-start="1266" selection-end="1268" vertical-scroll-proportion="0.0" vertical-offset="604" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408" />
+        <state line="17" column="5" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5253">
+          <folding>
+            <marker date="1409710498044" expanded="true" signature="1269:1309" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="1490:1526" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2220:2257" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2435:2472" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2604:2689" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="4397:4591" placeholder="SELECT p.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="4809:4872" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="5004:5156" placeholder="SELECT f.fil..posts..." />
+            <marker date="1409710498044" expanded="true" signature="7332:7395" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="7555:7616" placeholder="DELETE FROM ..." />
+            <marker date="1409710498044" expanded="true" signature="7753:7790" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="8054:8252" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="8982:9028" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9216:9259" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9402:9487" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="10767:11044" placeholder="SELECT c.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="13272:13373" placeholder="UPDATE comme..." />
+            <marker date="1409710498044" expanded="true" signature="13734:13775" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="33" selection-start="13" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1513">
+          <folding />
+        </state>
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state line="4" column="42" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408" />
+=======
+        <state line="17" column="5" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5253">
+          <folding>
+            <marker date="1409710498044" expanded="true" signature="1269:1309" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="1490:1526" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2220:2257" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2435:2472" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2604:2689" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="4397:4591" placeholder="SELECT p.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="4809:4872" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="5004:5156" placeholder="SELECT f.fil..posts..." />
+            <marker date="1409710498044" expanded="true" signature="7332:7395" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="7555:7616" placeholder="DELETE FROM ..." />
+            <marker date="1409710498044" expanded="true" signature="7753:7790" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="8054:8252" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="8982:9028" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9216:9259" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9402:9487" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="10767:11044" placeholder="SELECT c.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="13272:13373" placeholder="UPDATE comme..." />
+            <marker date="1409710498044" expanded="true" signature="13734:13775" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="59" column="37" selection-start="1817" selection-end="1817" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1513" />
       </provider>
     </entry>
@@ -444,21 +743,92 @@
     <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="1509" max-vertical-offset="2975" />
+=======
+        <state line="1" column="33" selection-start="13" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="5" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5253">
+          <folding>
+            <marker date="1409710498044" expanded="true" signature="1269:1309" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="1490:1526" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2220:2257" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2435:2472" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2604:2689" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="4397:4591" placeholder="SELECT p.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="4809:4872" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="5004:5156" placeholder="SELECT f.fil..posts..." />
+            <marker date="1409710498044" expanded="true" signature="7332:7395" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="7555:7616" placeholder="DELETE FROM ..." />
+            <marker date="1409710498044" expanded="true" signature="7753:7790" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="8054:8252" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="8982:9028" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9216:9259" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9402:9487" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="10767:11044" placeholder="SELECT c.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="13272:13373" placeholder="UPDATE comme..." />
+            <marker date="1409710498044" expanded="true" signature="13734:13775" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="33" selection-start="13" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="408">
+          <folding />
+        </state>
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/pages/login.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921" />
+=======
+        <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1921" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="3451" />
+=======
+        <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="3332" max-vertical-offset="3451" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10761" />
+=======
+        <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="8427" max-vertical-offset="10761" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
@@ -468,7 +838,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="6358" />
+=======
+        <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="6358" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
@@ -478,7 +852,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2975" />
+=======
+        <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="1751" max-vertical-offset="2975" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/pages/login.php">
@@ -541,16 +919,20 @@
         <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="1509" max-vertical-offset="2975" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/pages/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1921" />
       </provider>
     </entry>
+=======
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
     <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="6358" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="8427" max-vertical-offset="10761" />
@@ -569,10 +951,26 @@
     <entry file="file://$PROJECT_DIR$/application/JS/stuffs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="64" selection-start="2040" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="966" max-vertical-offset="3332" />
+=======
+    <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="1509" max-vertical-offset="2975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="30" selection-start="18066" selection-end="18066" vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.6060606" vertical-offset="8427" max-vertical-offset="10761" />
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="75" column="37" selection-start="2653" selection-end="2678" vertical-scroll-proportion="-7.9615383" vertical-offset="1068" max-vertical-offset="3451" />
       </provider>
     </entry>
@@ -586,24 +984,71 @@
     <entry file="file://$PROJECT_DIR$/application/pages/settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590">
+=======
+        <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.7226107" vertical-offset="3022" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="5253">
+          <folding>
+            <marker date="1409710498044" expanded="true" signature="1269:1309" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="1490:1526" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2220:2257" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2435:2472" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="2604:2689" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="4397:4591" placeholder="SELECT p.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="4809:4872" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="5004:5156" placeholder="SELECT f.fil..posts..." />
+            <marker date="1409710498044" expanded="true" signature="7332:7395" placeholder="SELECT * FRO..posts_liked..." />
+            <marker date="1409710498044" expanded="true" signature="7555:7616" placeholder="DELETE FROM ..." />
+            <marker date="1409710498044" expanded="true" signature="7753:7790" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="8054:8252" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="8982:9028" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9216:9259" placeholder="INSERT INTO ..." />
+            <marker date="1409710498044" expanded="true" signature="9402:9487" placeholder="SELECT CONCA..users..." />
+            <marker date="1409710498044" expanded="true" signature="10767:11044" placeholder="SELECT c.*, ..users..." />
+            <marker date="1409710498044" expanded="true" signature="13272:13373" placeholder="UPDATE comme..." />
+            <marker date="1409710498044" expanded="true" signature="13734:13775" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="33" selection-start="13" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1513">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/pages/schedules.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="66" selection-start="1730" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="913" max-vertical-offset="1955">
+=======
+    <entry file="file://$PROJECT_DIR$/application/CSS/cascading_style_sheets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/pages/profile.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="867">
+=======
+    <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="75" selection-start="1266" selection-end="1268" vertical-scroll-proportion="0.0" vertical-offset="604" max-vertical-offset="1921">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="122" column="35" selection-start="6409" selection-end="6409" vertical-scroll-proportion="0.0" vertical-offset="2014" max-vertical-offset="2975" />
@@ -612,10 +1057,16 @@
     <entry file="file://$PROJECT_DIR$/application/pages/updates.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="21" selection-start="481" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="527">
+=======
+    <entry file="file://$PROJECT_DIR$/application/JS/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/PHP/objects/updates/add_post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="77" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="765" />
@@ -624,10 +1075,16 @@
     <entry file="file://$PROJECT_DIR$/application/JS/updates.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="3689">
+=======
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="408">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="35" selection-start="2056" selection-end="2057" vertical-scroll-proportion="-3.8846154" vertical-offset="988" max-vertical-offset="1513" />
@@ -641,6 +1098,11 @@
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/User_controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="49" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="415" max-vertical-offset="1309">
+=======
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/User_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="48" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1309">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding>
             <marker date="1395775976000" expanded="true" signature="408:472" placeholder="INSERT INTO ..." />
             <marker date="1395775976000" expanded="true" signature="764:807" placeholder="INSERT INTO ..." />
@@ -651,6 +1113,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="35" selection-start="2158" selection-end="2161" vertical-scroll-proportion="-3.3653846" vertical-offset="709" max-vertical-offset="7531" />
@@ -703,6 +1166,23 @@
     <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="9" selection-start="39" selection-end="479" vertical-scroll-proportion="0.45212767" vertical-offset="0" max-vertical-offset="564">
+=======
+    <entry file="file://$PROJECT_DIR$/application/PHP/objects/users/login_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/objects/notes/accessing_dictionary_authorization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/objects/users/add_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="522" selection-end="522" vertical-scroll-proportion="0.61731845" vertical-offset="0" max-vertical-offset="358">
+>>>>>>> 79c86fce86a09adc6edcbd6d56115fbff14ed538
           <folding />
         </state>
       </provider>
