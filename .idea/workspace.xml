@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="183bc67d-17d1-4f57-a54c-069c3e14aa42" name="Default" comment="" />
+    <ignored path="stumasy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="stumasy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="updates.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/pages/updates.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="21" selection-start="481" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Profiles_controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Profiles_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="782">
+              <folding>
+                <marker date="1395776792000" expanded="true" signature="258:411" placeholder="SELECT upi.i..users..." />
+                <marker date="1395776792000" expanded="true" signature="573:608" placeholder="DELETE FROM ..." />
+                <marker date="1395776792000" expanded="true" signature="723:766" placeholder="INSERT INTO ..." />
+                <marker date="1395776792000" expanded="true" signature="933:979" placeholder="INSERT INTO ..." />
+                <marker date="1395776792000" expanded="true" signature="1245:1397" placeholder="SELECT f.fil..users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Schedule_controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Schedule_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1547">
+              <folding>
+                <marker date="1393951208000" expanded="true" signature="295:351" placeholder="INSERT INTO ..." />
+                <marker date="1393951208000" expanded="true" signature="561:608" placeholder="INSERT INTO ..." />
+                <marker date="1393951208000" expanded="true" signature="837:855" placeholder="SELECT * FRO..days..." />
+                <marker date="1393951208000" expanded="true" signature="993:1245" placeholder="SELECT cs.*,..users..." />
+                <marker date="1393951208000" expanded="true" signature="1919:2074" placeholder="SELECT cs.*,..users_class_schedules..." />
+                <marker date="1393951208000" expanded="true" signature="2896:3005" placeholder="UPDATE class..." />
+                <marker date="1393951208000" expanded="true" signature="3282:3325" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stuffs_controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stuffs_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="49" selection-start="892" selection-end="901" vertical-scroll-proportion="-6.730769" vertical-offset="165" max-vertical-offset="2210">
+              <folding>
+                <marker date="1396981978000" expanded="true" signature="304:345" placeholder="INSERT INTO ..." />
+                <marker date="1396981978000" expanded="true" signature="531:572" placeholder="INSERT INTO ..." />
+                <marker date="1396981978000" expanded="true" signature="698:750" placeholder="SELECT tone_..alarm_tones..." />
+                <marker date="1396981978000" expanded="true" signature="2025:2284" placeholder="SELECT a.ala..users..." />
+                <marker date="1396981978000" expanded="true" signature="2752:2981" placeholder="SELECT a.*, ..users..." />
+                <marker date="1396981978000" expanded="true" signature="4413:4463" placeholder="SELECT statu..users_alarms..." />
+                <marker date="1396981978000" expanded="true" signature="4683:4736" placeholder="UPDATE users..." />
+                <marker date="1396981978000" expanded="true" signature="4964:5001" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database_connection.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="9" selection-start="39" selection-end="479" vertical-scroll-proportion="0.45212767" vertical-offset="0" max-vertical-offset="564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updates.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/JS/updates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="3689">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_controller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/PHP/classes/User_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="49" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="415" max-vertical-offset="1309">
+              <folding>
+                <marker date="1395775976000" expanded="true" signature="408:472" placeholder="INSERT INTO ..." />
+                <marker date="1395775976000" expanded="true" signature="764:807" placeholder="INSERT INTO ..." />
+                <marker date="1395775976000" expanded="true" signature="1100:1202" placeholder="SELECT u.use..users..." />
+                <marker date="1395775976000" expanded="true" signature="1354:1469" placeholder="SELECT u.* F..users..." />
+                <marker date="1395775976000" expanded="true" signature="1920:2035" placeholder="SELECT u.* F..users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/pages/settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schedules.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/pages/schedules.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="66" selection-start="1730" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="913" max-vertical-offset="1955">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/pages/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/pages/login.php" />
+        <option value="$PROJECT_DIR$/application/JS/schedules.js" />
+        <option value="$PROJECT_DIR$/application/CSS/notes.css" />
+        <option value="$PROJECT_DIR$/application/pages/notes.php" />
+        <option value="$PROJECT_DIR$/application/PHP/classes/Notes_controller.php" />
+        <option value="$PROJECT_DIR$/application/JS/notes.js" />
+        <option value="$PROJECT_DIR$/application/PHP/classes/Database_connection.php" />
+        <option value="$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="updates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stumasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quiCue" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\stumasy\application\CSS\images\preview_images" />
+      <recent name="C:\xampp\htdocs\stumasy\application\CSS\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\stumasy\application\CSS\images\preview_images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="183bc67d-17d1-4f57-a54c-069c3e14aa42" name="Default" comment="" />
+      <created>1397557495185</created>
+      <updated>1397557495185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23718888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="43" selection-start="2925" selection-end="2934" vertical-scroll-proportion="0.0" vertical-offset="1167" max-vertical-offset="5253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="8427" max-vertical-offset="10761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="42" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="37" selection-start="1817" selection-end="1817" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="30" selection-start="18066" selection-end="18066" vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="1509" max-vertical-offset="2975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="44" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="30" selection-start="18066" selection-end="18066" vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="500" column="25" selection-start="17767" selection-end="17767" vertical-scroll-proportion="0.0" vertical-offset="8300" max-vertical-offset="10744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="30" selection-start="18066" selection-end="18066" vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="24" selection-start="6996" selection-end="6996" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="500" column="25" selection-start="17767" selection-end="17767" vertical-scroll-proportion="0.0" vertical-offset="8300" max-vertical-offset="10744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="30" selection-start="18066" selection-end="18066" vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="63" selection-start="5465" selection-end="5465" vertical-scroll-proportion="0.0" vertical-offset="1509" max-vertical-offset="2975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="81" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/CSS/notes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="1339" selection-end="1341" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="511" column="41" selection-start="18058" selection-end="18058" vertical-scroll-proportion="0.0" vertical-offset="8427" max-vertical-offset="10761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="64" selection-start="514" selection-end="518" vertical-scroll-proportion="-6.0576925" vertical-offset="8" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2047" column="2" selection-start="36251" selection-end="36251" vertical-scroll-proportion="0.0" vertical-offset="34586" max-vertical-offset="37060" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/stuffs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="64" selection-start="2040" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="966" max-vertical-offset="3332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/schedules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="37" selection-start="2653" selection-end="2678" vertical-scroll-proportion="-7.9615383" vertical-offset="1068" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/stuffs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="1" selection-end="2" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/schedules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="66" selection-start="1730" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="913" max-vertical-offset="1955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/notes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="35" selection-start="6409" selection-end="6409" vertical-scroll-proportion="0.0" vertical-offset="2014" max-vertical-offset="2975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/pages/updates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="481" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/objects/updates/add_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="77" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/JS/updates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="3689">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stumasy_extra_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="35" selection-start="2056" selection-end="2057" vertical-scroll-proportion="-3.8846154" vertical-offset="988" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Updates_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="99" selection-start="5406" selection-end="5406" vertical-scroll-proportion="3.4807692" vertical-offset="2272" max-vertical-offset="5253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/User_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="49" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="415" max-vertical-offset="1309">
+          <folding>
+            <marker date="1395775976000" expanded="true" signature="408:472" placeholder="INSERT INTO ..." />
+            <marker date="1395775976000" expanded="true" signature="764:807" placeholder="INSERT INTO ..." />
+            <marker date="1395775976000" expanded="true" signature="1100:1202" placeholder="SELECT u.use..users..." />
+            <marker date="1395775976000" expanded="true" signature="1354:1469" placeholder="SELECT u.* F..users..." />
+            <marker date="1395775976000" expanded="true" signature="1920:2035" placeholder="SELECT u.* F..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Notes_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="35" selection-start="2158" selection-end="2161" vertical-scroll-proportion="-3.3653846" vertical-offset="709" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Profiles_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="782">
+          <folding>
+            <marker date="1395776792000" expanded="true" signature="258:411" placeholder="SELECT upi.i..users..." />
+            <marker date="1395776792000" expanded="true" signature="573:608" placeholder="DELETE FROM ..." />
+            <marker date="1395776792000" expanded="true" signature="723:766" placeholder="INSERT INTO ..." />
+            <marker date="1395776792000" expanded="true" signature="933:979" placeholder="INSERT INTO ..." />
+            <marker date="1395776792000" expanded="true" signature="1245:1397" placeholder="SELECT f.fil..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Schedule_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1547">
+          <folding>
+            <marker date="1393951208000" expanded="true" signature="295:351" placeholder="INSERT INTO ..." />
+            <marker date="1393951208000" expanded="true" signature="561:608" placeholder="INSERT INTO ..." />
+            <marker date="1393951208000" expanded="true" signature="837:855" placeholder="SELECT * FRO..days..." />
+            <marker date="1393951208000" expanded="true" signature="993:1245" placeholder="SELECT cs.*,..users..." />
+            <marker date="1393951208000" expanded="true" signature="1919:2074" placeholder="SELECT cs.*,..users_class_schedules..." />
+            <marker date="1393951208000" expanded="true" signature="2896:3005" placeholder="UPDATE class..." />
+            <marker date="1393951208000" expanded="true" signature="3282:3325" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Stuffs_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="49" selection-start="892" selection-end="901" vertical-scroll-proportion="-6.730769" vertical-offset="165" max-vertical-offset="2210">
+          <folding>
+            <marker date="1396981978000" expanded="true" signature="304:345" placeholder="INSERT INTO ..." />
+            <marker date="1396981978000" expanded="true" signature="531:572" placeholder="INSERT INTO ..." />
+            <marker date="1396981978000" expanded="true" signature="698:750" placeholder="SELECT tone_..alarm_tones..." />
+            <marker date="1396981978000" expanded="true" signature="2025:2284" placeholder="SELECT a.ala..users..." />
+            <marker date="1396981978000" expanded="true" signature="2752:2981" placeholder="SELECT a.*, ..users..." />
+            <marker date="1396981978000" expanded="true" signature="4413:4463" placeholder="SELECT statu..users_alarms..." />
+            <marker date="1396981978000" expanded="true" signature="4683:4736" placeholder="UPDATE users..." />
+            <marker date="1396981978000" expanded="true" signature="4964:5001" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/PHP/classes/Database_connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="9" selection-start="39" selection-end="479" vertical-scroll-proportion="0.45212767" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
